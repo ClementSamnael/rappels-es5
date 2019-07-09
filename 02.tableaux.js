@@ -26,4 +26,4 @@ var villesMajusculeSeTerminantParS = villes.filter(function(ville){
 }).map(function(ville){
     return ville.toUpperCase();
 });
-lg('villesMajusculeSeTerminantParS = ' + villesMajusculeSeTerminantParS)
+lg('villesMajusculeSeTerminantParS = ' + villesMajusculeSeTerminantParS);
